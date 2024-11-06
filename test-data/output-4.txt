@@ -1,0 +1,2 @@
+SUCCESS #->ship
+FAIL #->primary tropedo
