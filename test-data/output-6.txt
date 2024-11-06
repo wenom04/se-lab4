@@ -1,0 +1,3 @@
+SUCCESS #->ship
+SUCCESS #->first torpedo, now its empty
+FAIL

@@ -1,0 +1,4 @@
+GT4500,3,0,0,0 #->ship with 3 torpedos int the primary slot
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
